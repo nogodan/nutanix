@@ -53,7 +53,7 @@ Prerequistes
 # 
 ## Authors
 
-* **Taeho Choi** - (https://github.com/nogodan1234)
+* **Taeho Choi** - (https://github.com/nogodan)
 
 See also the list of [contributors](https://github.com/nogodan1234/nutanix/contributors) who participated in this project.
 
